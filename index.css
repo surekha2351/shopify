@@ -1,0 +1,58 @@
+.logo {
+    width: 80px;
+  }
+  .button {
+    background-color: #dae2ec;
+    font-family: "Roboto";
+    font-size: 18px;
+    width: 33%;
+    border-width: 0;
+    border-radius: 8px;
+  }
+  
+  .button2 {
+    background-color: #0c0d0f;
+  
+    font-size: 18px;
+    width: 75%;
+    border-width: 0;
+    border-radius: 8px;
+    color: aliceblue;
+    padding: 10px;
+  }
+  
+  .text {
+    font-size: 18px;
+  }
+  
+  .head {
+    font-size: 90px;
+    width: 40%;
+    font-weight: bold;
+  }
+  
+  .container {
+    border: 1px solid green;
+    border-left-width: 0px;
+    text-align: center;
+    padding: 9px;
+    background-color: rgb(222, 245, 237);
+  }
+  
+  .container-text {
+    font-size: 22px;
+  }
+  
+  .icon {
+    color: green;
+  }
+  
+  li {
+    list-style-type: none;
+    display: flex;
+    padding-top: 10px;
+  }
+  
+  .ul-text {
+    font-size: 23px;
+  }
